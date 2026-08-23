@@ -1,0 +1,143 @@
+body {
+
+    margin: 0;
+
+    min-width: 350px;
+
+    font-family:
+        Arial,
+        sans-serif;
+
+    background: #f5f5f5;
+
+}
+
+
+.container {
+
+    padding: 20px;
+
+}
+
+
+h1 {
+
+    margin: 0;
+
+    font-size: 22px;
+
+    color: #222;
+
+}
+
+
+.subtitle {
+
+    margin-top: 8px;
+
+    color: #777;
+
+    font-size: 13px;
+
+}
+
+
+.add-site {
+
+    display: flex;
+
+    gap: 8px;
+
+    margin: 20px 0;
+
+}
+
+
+#siteInput {
+
+    flex: 1;
+
+    padding: 10px;
+
+    border:
+
+        1px solid #ddd;
+
+    border-radius: 8px;
+
+    outline: none;
+
+}
+
+
+#siteInput:focus {
+
+    border-color: #e53935;
+
+}
+
+
+#addButton {
+
+    border: none;
+
+    border-radius: 8px;
+
+    padding: 10px 15px;
+
+    background: #e53935;
+
+    color: white;
+
+    font-weight: bold;
+
+    cursor: pointer;
+
+}
+
+
+.site-item {
+
+    display: flex;
+
+    align-items: center;
+
+    justify-content: space-between;
+
+    padding: 10px;
+
+    margin-bottom: 8px;
+
+    background: white;
+
+    border-radius: 8px;
+
+    box-shadow:
+
+        0 2px 5px rgba(0,0,0,0.08);
+
+}
+
+
+.site-name {
+
+    font-size: 14px;
+
+    font-weight: 500;
+
+}
+
+
+.delete-button {
+
+    border: none;
+
+    background: transparent;
+
+    color: #e53935;
+
+    font-size: 18px;
+
+    cursor: pointer;
+
+}

@@ -1,0 +1,146 @@
+#diyet-uyari-ekrani {
+    position: fixed !important;
+    z-index: 2147483647 !important;
+
+    inset: 0 !important;
+
+    width: 100vw !important;
+    height: 100vh !important;
+
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+
+    background: rgba(15, 15, 15, 0.98) !important;
+
+    font-family: Arial, sans-serif !important;
+}
+
+
+#diyet-kutu {
+
+    width: 90%;
+    max-width: 500px;
+
+    padding: 45px;
+
+    text-align: center;
+
+    background: white;
+
+    border-radius: 25px;
+
+    box-shadow:
+        0 30px 100px rgba(0, 0, 0, 0.6);
+
+}
+
+
+.emoji {
+
+    font-size: 65px;
+
+    margin-bottom: 10px;
+
+}
+
+
+#diyet-kutu h1 {
+
+    margin: 0;
+
+    font-size: 42px;
+
+    color: #e53935;
+
+    font-weight: 900;
+
+}
+
+
+.ana-mesaj {
+
+    font-size: 23px;
+
+    font-weight: bold;
+
+    color: #222;
+
+    margin: 20px 0;
+
+}
+
+
+.alt-mesaj {
+
+    color: #666;
+
+    font-size: 16px;
+
+    line-height: 1.5;
+
+}
+
+
+#diyet-input {
+
+    box-sizing: border-box;
+
+    width: 100%;
+
+    padding: 16px;
+
+    margin-top: 15px;
+
+    font-size: 20px;
+
+    text-align: center;
+
+    border: 2px solid #ddd;
+
+    border-radius: 12px;
+
+    outline: none;
+
+}
+
+
+#diyet-input:focus {
+
+    border-color: #e53935;
+
+}
+
+
+#diyet-devam {
+
+    width: 100%;
+
+    margin-top: 15px;
+
+    padding: 16px;
+
+    border: none;
+
+    border-radius: 12px;
+
+    background: #e53935;
+
+    color: white;
+
+    font-size: 17px;
+
+    font-weight: bold;
+
+    cursor: pointer;
+
+}
+
+
+#diyet-devam:disabled {
+
+    opacity: 0.35;
+
+    cursor: not-allowed;
+
+}
