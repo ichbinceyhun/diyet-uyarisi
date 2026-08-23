@@ -1,39 +1,14 @@
-# \# 🥗 Diyet Uyarısı
+# 🥗 Diyet Uyarısı
 
-# 
+Belirlediğiniz web sitelerine girerken hedefinizi hatırlatan basit bir Chrome/Edge eklentisi.
 
-# Belirlediğiniz web sitelerine girerken hedefinizi hatırlatan basit bir Chrome eklentisi.
+## 📸 Ne İşe Yarar?
 
-# 
+Eklenti panelinden istediğiniz web sitelerini eklersiniz.
 
-# \## 📸 Ne İşe Yarar?
+Eklediğiniz bir siteye girdiğinizde ekranınıza bir uyarı gelir:
 
-# 
+> 🥗 DİYETTESİN!  
+> HABERİN OLSUN. AKILLI OL.
 
-# Eklenti panelinden istediğiniz web sitelerini eklersiniz.
-
-# 
-
-# Eklediğiniz bir siteye girdiğinizde ekranınıza bir uyarı gelir:
-
-# 
-
-# > 🥗 DİYETTESİN!  
-
-# > HABERİN OLSUN. AKILLI OL.
-
-# 
-
-# Siteye devam etmek için:
-
-# 
-
-# ```text
-
-biliyorum
-
-
-
-
-===
-
+Siteye devam etmek için "biliyorum" yazmanız gerekir.
